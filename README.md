@@ -135,3 +135,60 @@ operator-cli gui set password <type_new_password__here>
 You should see the “Overview” page for the Shardeum Validator Dashboard in your web browser:
 
 ![image](https://github.com/MirrorReflectionTeam/shardeum-docs/blob/master/overview.jpg)
+
+Go to the “Maintenance” page, then click the “Start Node” button in the top left white box
+
+Go to terminal and start node:
+
+```
+operator-cli start
+```
+Then go to web browser and refresh the page.
+
+The node is running correctly if the “Start Node” button now says “Stop Node”.
+
+Connect Wallet to Betanet [Sphinx](https://docs.shardeum.org/Network/Endpoints#connect-wallet)
+
+Get SHM from Betanet [Faucet](https://docs.shardeum.org/Faucet/Claim#shardeum-faucet-website)
+
+## Stake SHM to validator
+
+After you start the validator, go to the “Settings” page. You will be asked to connect your wallet
+
+After you connect your wallet, you should click "Add Stake"
+
+Fill minimum 10 SHM tokens and click the “Stake” button.
+
+Your wallet will ask you to sign the transaction stake your SHM.
+
+Once the transaction is signed and complete, you have staked your SHM tokens successfully.
+
+## Uninstall Node
+
+```
+cd ~/.shardeum
+./cleanup.sh
+cd ~/
+rm -rf .shardeum
+rm installer.sh
+```
+
+## Useful Commands
+
+To exit the shell, use the command
+
+```
+exit
+```
+
+Stop node
+
+```
+operator-cli stop
+```
+
+Check node
+
+```
+operator-cli gui status
+```
