@@ -153,7 +153,7 @@ Get SHM from Betanet [Faucet](https://docs.shardeum.org/Faucet/Claim#shardeum-fa
 
 ## Stake SHM to validator
 
-After you start the validator, go to the “Settings” page. You will be asked to connect your wallet
+After you start the validator, go to the “Maintenance” page. You will be asked to connect your wallet
 
 After you connect your wallet, you should click "Add Stake"
 
