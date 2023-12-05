@@ -86,9 +86,6 @@ Set the second p2p port (default 10001):
 
 **Enter the second port (1025-65536) for p2p communication (default 10001):**
 
-Add a custom path or install to root:
-**What base directory should the node use (defaults to ~/.shardeum):** Enter
-
 Wait for the installation process to complete.
 
 Install and Open ports in firewall
