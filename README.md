@@ -74,6 +74,10 @@ Add a custom session port for the web based dashboard or hit enter for port 8080
 
 **Enter the port (1025-65536) to access the web based Dashboard (default 8080):**
 
+Set IPv4 by default:
+
+**If you wish to set an explicit external IP, enter an IPv4 address (default=auto):** Click Enter
+
 Set the first p2p port (default 9001):
 
 **This allows p2p communication between nodes. Enter the first port (1025-65536) for p2p communication (default 9001):**
