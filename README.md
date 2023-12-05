@@ -15,7 +15,7 @@ Shardeum is an EVM-based, linearly scalable smart contract platform that provide
 
 ## Hardware Requirements
 
-Installation on server **[Hetzner - CPX31:](https://hetzner.cloud/?ref=AwVksaI2T3Nz) 4 CPU, 8 GB RAM, 160 GB SSD.**
+Installation on server **[Hetzner - CX21:](https://hetzner.cloud/?ref=AwVksaI2T3Nz) 2 CPU, 4 GB RAM, 40 GB SSD.**
 
 ## Manual Setup
 
