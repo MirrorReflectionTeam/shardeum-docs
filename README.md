@@ -58,6 +58,10 @@ Give permission to collect validator data for bug reporting:
 
 **By running this installer, you agree to allow the Shardeum team to collect this data. (y/n)?:** Enter **y**
 
+Set custom directory:
+
+**What base directory should the node use (default ~/.shardeum):** Click Enter
+
 Enter y to setup the web based dashboard:
 
 **Do you want to run the web based Dashboard? (y/n): y**
