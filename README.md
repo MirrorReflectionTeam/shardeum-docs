@@ -100,6 +100,8 @@ sudo ufw allow 10001
 ```
 ```
 sudo ufw enable
+```
+```
 sudo ufw reload
 ```
 
