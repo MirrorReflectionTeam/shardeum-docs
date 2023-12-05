@@ -87,9 +87,13 @@ Install and Open ports in firewall
 
 ```
 sudo apt install ufw
+```
+```
 sudo ufw allow 22
 sudo ufw allow 9001
 sudo ufw allow 10001
+```
+```
 sudo ufw enable
 sudo ufw reload
 ```
